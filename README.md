@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Hi 👋, 
+  MULLA SULTHAN BASHA
 </h1>
 
 <h3 align="center">
@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Qualifications
 
 ### 💻 Programming Languages
 <p>
@@ -58,28 +58,6 @@
 - Linux System Administration
 - Site Reliability Engineering (SRE principles)
 - Full Stack Application Integration
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SulthanBashaMulla&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SulthanBashaMulla&theme=github-dark&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulthanBashaMulla&layout=compact&theme=github_dark&hide_border=true" width="40%" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p>
-  <!-- Add links when ready -->
-  <img src="https://skillicons.dev/icons?i=linkedin,github,instagram" />
-</p>
 
 ---
 
